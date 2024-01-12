@@ -1,6 +1,6 @@
 <h1 align="center"> GymApp API </h1>
 
-<span align="center"> Gym check-in app. </span>
+<h6 align="center"> Gym check-in app. </h6>
 
 ## RFs (Requisitos funcionais)
 
@@ -35,7 +35,10 @@
 
 - NodeJS
 - TypeScript
+- Tsup
 - Fastify
+- Dotenv
+- Zod
 
 <!--START_SECTION:footer-->
 

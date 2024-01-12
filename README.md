@@ -1,7 +1,6 @@
-<!-- # GymApp API -->
 <h1 align="center"> GymApp API </h1>
 
-Gym check-in app.
+<span align="center"> Gym check-in app. </span>
 
 ## RFs (Requisitos funcionais)
 

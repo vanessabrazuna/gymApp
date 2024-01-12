@@ -39,6 +39,7 @@
 - Fastify
 - Dotenv
 - Zod
+- Eslint
 
 <!--START_SECTION:footer-->
 

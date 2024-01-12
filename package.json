@@ -6,13 +6,16 @@
   "scripts": {
     "start:dev": "tsx watch src/server.ts",
     "start": "node build/server.js",
-    "build": "tsup src --out-dir build"
+    "build": "tsup src --out-dir build",
+    "lint": "eslint src --ext .ts --fix"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@rocketseat/eslint-config": "2.1.0",
     "@types/node": "20.11.0",
+    "eslint": "8.56.0",
     "tsup": "8.0.1",
     "tsx": "4.7.0",
     "typescript": "5.3.3"

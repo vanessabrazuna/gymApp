@@ -40,6 +40,7 @@
 - Dotenv
 - Zod
 - Eslint
+- Prisma
 
 <!--START_SECTION:footer-->
 

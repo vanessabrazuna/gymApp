@@ -31,7 +31,7 @@
 - [x] Todas listas de dados precisam estar paginadas com 20 itens por página;
 - [x] O usuário deve ser identificado por um JWT (JSON Web Token);
 
-## Technologies Used
+## Tecnologias Utilizadas
 
 - NodeJS
 - TypeScript
@@ -46,7 +46,7 @@
 
 ---
 
-Developed 💚 by Vanessa Brazuna
+Desenvolvido 💚 por Vanessa Brazuna
 
 <!--END_SECTION:footer-->
 

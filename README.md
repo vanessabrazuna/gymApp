@@ -37,10 +37,11 @@
 - TypeScript
 - Tsup
 - Fastify
-- Dotenv
-- Zod
-- Eslint
 - Prisma
+- Zod
+- Docker
+- Dotenv
+- Eslint
 
 <!--START_SECTION:footer-->
 

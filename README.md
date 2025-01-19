@@ -39,6 +39,7 @@
 - Fastify
 - Prisma
 - Zod
+- Bcryptjs
 - Docker
 - Dotenv
 - Eslint

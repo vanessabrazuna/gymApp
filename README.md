@@ -41,6 +41,7 @@
 - Zod
 - Bcryptjs
 - Docker
+- Vitest
 - Dotenv
 - Eslint
 

@@ -42,6 +42,7 @@
 - Bcryptjs
 - Docker
 - Vitest
+- Vitest UI
 - Dotenv
 - Eslint
 

@@ -43,6 +43,7 @@
 - Docker
 - Vitest
 - Vitest UI
+- Coverage
 - Dotenv
 - Eslint
 

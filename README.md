@@ -40,6 +40,7 @@
 - Prisma
 - Zod
 - Bcryptjs
+- DayJs
 - Docker
 - Vitest
 - Vitest UI

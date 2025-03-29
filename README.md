@@ -37,6 +37,7 @@
 - TypeScript
 - Tsup
 - Fastify
+- Fastify JWT
 - Prisma
 - Zod
 - Bcryptjs

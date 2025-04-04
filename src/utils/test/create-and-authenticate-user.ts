@@ -1,4 +1,4 @@
-import { prisma } from 'src/lib/prisma'
+import { prisma } from '@/lib/prisma'
 import { hash } from 'bcryptjs'
 import { FastifyInstance } from 'fastify'
 import request from 'supertest'

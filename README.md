@@ -47,6 +47,7 @@
 - Vitest
 - Vitest UI
 - Coverage
+- CI/CD
 - Dotenv
 - Eslint
 

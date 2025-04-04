@@ -38,6 +38,7 @@
 - Tsup
 - Fastify
 - Fastify JWT
+- Fastify Cookie
 - Prisma
 - Zod
 - Bcryptjs
